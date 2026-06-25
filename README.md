@@ -130,15 +130,3 @@ agentic-research-assistant/
 - **The vector index is cached** to disk after first build, so repeated runs
   don't re-embed the documents.
 
-## Possible extensions
-
-- Add a third tool for structured data (SQL) queries
-- Add conversation memory persistence across sessions
-- Add a second agent for fact-checking/critique before the final answer
-  (supervisor pattern)
-- Swap DuckDuckGo for Tavily for higher-quality web results
-
-## Author
-
-Kolipakula Dwarakadeesh — AI/ML Engineer
-[LinkedIn](https://linkedin.com/in/kolipakula-dwarakadeesh)
