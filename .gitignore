@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+faiss_index/
+.venv/
+venv/
+*.egg-info/
+.DS_Store

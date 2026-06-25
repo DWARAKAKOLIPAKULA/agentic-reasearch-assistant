@@ -1,0 +1,35 @@
+Company Policy Handbook — Remote Work Guidelines (Internal Knowledge Base)
+
+1. Remote Work Eligibility
+All full-time employees who have completed their probation period (90 days) are
+eligible to apply for remote work arrangements. Approval is subject to manager
+discretion and role requirements.
+
+2. Working Hours
+Remote employees are expected to be available during core collaboration hours,
+10:00 AM to 4:00 PM local time, regardless of their chosen working schedule.
+Total working hours per week remain 40 hours.
+
+3. Equipment and Reimbursement
+The company provides a one-time equipment allowance of up to $500 for home office
+setup, covering items such as monitors, chairs, and keyboards. Internet
+reimbursement of $30/month is available upon submission of a utility bill.
+
+4. Security Requirements
+All remote employees must use company-issued VPN software when accessing internal
+systems. Personal devices used for work must have endpoint protection software
+installed and approved by the IT Security team.
+
+5. Performance Reviews
+Remote employees are evaluated using the same performance criteria as in-office
+staff. Quarterly check-ins are mandatory and must be conducted via video call.
+
+6. Travel Policy for Remote Employees
+Remote employees required to travel to the head office for quarterly meetings
+will have travel and accommodation expenses reimbursed, provided they are booked
+through the approved company travel portal at least 14 days in advance.
+
+7. Termination of Remote Arrangement
+The company reserves the right to revoke remote work privileges with 30 days
+written notice if performance metrics are not met for two consecutive quarters,
+or if business needs require a return to office.
